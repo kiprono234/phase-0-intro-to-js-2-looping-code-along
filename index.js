@@ -6,5 +6,5 @@ function countDown(number) {
         console.log(number);
         number--;
     }
-}
+};
  
